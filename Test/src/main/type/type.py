@@ -11,11 +11,13 @@ print(name)
 # a = b = c = 1
 # a,b,c = 1,2,"runoob"
 
-# 标准数据类型
-# Number String List Tuple Set  Dictionary
-# python3 六个标注啊数据类型
-# 不可变数据(3 个) Number(数字)、String(字符串)、Tuple(元组)
-# 可变数据（3 个）List(列表) Dictionary（字典） Set（集合）
+'''
+    标准数据类型
+    Number String List Tuple Set  Dictionary
+    python3 六个标注啊数据类型
+    不可变数据(3 个) Number(数字)、String(字符串)、Tuple(元组)
+    可变数据（3 个）List(列表) Dictionary（字典） Set（集合）
+'''
 
 # Number
 # Python3 支持 int、float、bool、complex（复数）
@@ -115,25 +117,26 @@ print(tinydict.values())
 # hyf1={x: x**2 for x in(2,4,6)}
 # print(hyf1)
 
-#字典是一种映射类型，它的元素是键值对
-#字典关键字必须为不可变类型，且不能恢复
-#创建空字典使用{}
+''' 字典是一种映射类型，它的元素是键值对
+字典关键字必须为不可变类型，且不能恢复
+创建空字典使用{} '''
 
 
-
-# Python 数据类型转换
-# int(x) 将 x 转换为一个整数类型
-# float(x) 将 x 转换到一个浮点数
-# complex() 创建一个复数
-# str() 将对象 x 转换为字符串
-# repr(x) 将对象 x 转换为表达式字符串
-# eval(str) 用来计算在字符串中的有效Python 表达式，并返回一个对象
-# tuple(s) 将序列 s 转换为一个元组
-# list(s)  将序列 s 转换为一个列表
-# set(s)   转换为可变集合
-# dict(d)  创建一个字典，d必须是一个（key，value）元组序列
-# frozenset(s) 转换为 不可变集合
-# chr(x) 将一个整数转换为一个字符串
-# ord(x) 将一个整数转为一个16进制字符串
-# hex(x) 将一个整数转为一个16进制字符串
-# oct(x) 将一个整数转为一个八进制字符串
+''' 
+    Python 数据类型转换
+    int(x) 将 x 转换为一个整数类型
+    float(x) 将 x 转换到一个浮点数
+    complex() 创建一个复数
+    str() 将对象 x 转换为字符串
+    repr(x) 将对象x 转换为表达式字符串
+    eval(str) 用来计算在字符串中的有效Python 表达式，并返回一个对象
+    tuple(s) 将序列 s 转换为一个元组
+    list(s)  将序列 s 转换为一个列表
+    set(s)   转换为可变集合
+    dict(d)  创建一个字典，d必须是一个（key，value）元组序列
+    frozenset(s) 转换为 不可变集合
+    chr(x) 将一个整数转换为一个字符串
+    ord(x) 将一个整数转为一个16进制字符串
+    hex(x) 将一个整数转为一个16进制字符串
+    oct(x) 将一个整数转为一个八进制字符串
+'''
