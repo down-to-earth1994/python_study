@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb74617-a4ab-4f8d-824a-e14019ad0d36" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/src/main/type/type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/main/type/type.py" afterDir="false" />
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="type.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/src/main/type/type.py">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="126" column="18" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="18" />
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -56,6 +57,7 @@
         <option value="$PROJECT_DIR$/Test/src/main/type/helloWorld.py" />
         <option value="$PROJECT_DIR$/Test/src/main/line/line.py" />
         <option value="$PROJECT_DIR$/Test/src/main/type/type.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -86,32 +88,6 @@
             <path>
               <item name="python_grammar" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_grammar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_grammar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_grammar" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_grammar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_grammar" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_grammar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_grammar" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_grammar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_grammar" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="type" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,9 +255,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3260606" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.43515152" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2532189" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3260606" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.43515152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -408,8 +384,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/src/main/type/type.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="126" column="18" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="18" />
+        <state relative-caret-position="2622">
+          <caret line="138" column="24" lean-forward="true" selection-start-line="138" selection-start-column="24" selection-end-line="138" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
