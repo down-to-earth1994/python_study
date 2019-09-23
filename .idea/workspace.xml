@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eb74617-a4ab-4f8d-824a-e14019ad0d36" name="Default" comment="" />
+    <list default="true" id="3eb74617-a4ab-4f8d-824a-e14019ad0d36" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/main/type/type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/main/type/type.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,15 +20,15 @@
     <SUITE FILE_PATH="coverage/python_grammar$helloWorld.coverage" NAME="helloWorld Coverage Results" MODIFIED="1569205026677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_grammar$line.coverage" NAME="line Coverage Results" MODIFIED="1569207709640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/src/main/line" />
     <SUITE FILE_PATH="coverage/python_grammar$helloWorld__1_.coverage" NAME="helloWorld (1) Coverage Results" MODIFIED="1569207192979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/src/main/type" />
-    <SUITE FILE_PATH="coverage/python_grammar$type__1_.coverage" NAME="type (1) Coverage Results" MODIFIED="1569219958802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/src/main/type" />
+    <SUITE FILE_PATH="coverage/python_grammar$type__1_.coverage" NAME="type (1) Coverage Results" MODIFIED="1569220531996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/src/main/type" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="type.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/src/main/type/type.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="103" column="44" selection-start-line="103" selection-start-column="44" selection-end-line="103" selection-end-column="44" />
+            <state relative-caret-position="164">
+              <caret line="126" column="18" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -37,6 +41,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -67,6 +74,7 @@
     <option name="width" value="1396" />
     <option name="height" value="789" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -269,7 +277,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3260606" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.43515152" />
@@ -400,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/src/main/type/type.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="103" column="44" selection-start-line="103" selection-start-column="44" selection-end-line="103" selection-end-column="44" />
+        <state relative-caret-position="164">
+          <caret line="126" column="18" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="18" />
         </state>
       </provider>
     </entry>
